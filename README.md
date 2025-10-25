@@ -40,6 +40,7 @@ Go to [https://desktop.github.com/download/](https://desktop.github.com/download
 
 <hr>
 WRITE SOMETHING HERE -> hi
+WRITE SOMETHING HERE ->  jerome was here
 <hr>
 
 ### 7. \*Push\* your changes from local to remote. 
